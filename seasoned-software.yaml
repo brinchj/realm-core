@@ -1,0 +1,4 @@
+install:
+  apt-get:
+    - libssl-dev
+    - libprocps-dev
